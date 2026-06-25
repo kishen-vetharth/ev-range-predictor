@@ -133,7 +133,7 @@ Features Used:
 ## Project Structure
 
 ```text
-EV-RANGE-PREDECTOR/
+EV-RANGE-PREDICTOR/
 │
 ├── data/
 ├── images/
